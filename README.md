@@ -1,6 +1,6 @@
 # 🌌 Galaksi Simülasyonu Oyunu
 
-![Uzay Aracı](assets/icon/app_icon.png)
+<img src="assets/icon/app_icon.png" alt="Uzay Aracı" width="150">
 
 ## Proje Hakkında
 
