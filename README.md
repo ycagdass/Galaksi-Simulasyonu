@@ -1,7 +1,9 @@
 
 🌌 Galaxy Simulation Game
 
-<img src="assets/icon/app_icon.png" alt="Spacecraft" width="250" height="220">About the Project
+<img src="assets/icon/app_icon.png" alt="Spacecraft" width="250" height="220">
+
+About the Project
 
 Galaxy Simulation is a space simulation game where you can explore the universe and visit various celestial bodies across the galaxy. Developed using Flutter, this game offers a unique interstellar adventure!
 
