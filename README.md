@@ -115,7 +115,7 @@ We welcome contributions! Please open an Issue to discuss your changes before su
 
 👤 Developer
 
-@ycagdass (front-end and IoT developer)
+@ycagdass 
 
 
 
